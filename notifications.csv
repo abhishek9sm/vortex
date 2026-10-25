@@ -1,0 +1,102 @@
+text,category
+"Your examination timetable has been released",Education
+"Your assignment submission is due tomorrow",Education
+"Your college class starts at nine AM",Education
+"Your attendance percentage is now available",Education
+"The university exam registration deadline is approaching",Education
+"Your laboratory record must be submitted today",Education
+"Your internal assessment results are published",Education
+"Your college has announced a holiday",Education
+"Your lecture has been rescheduled to Friday",Education
+"Your scholarship application status has changed",Education
+"Your bank account was accessed from a new device",Security
+"An unusual login was detected on your account",Security
+"Your password was changed successfully",Security
+"Your account verification code is 123456",Security
+"A new device has been linked to your account",Security
+"Your account has been temporarily locked",Security
+"Please review a suspicious sign in attempt",Security
+"Your security settings were updated",Security
+"A payment requires your authorization",Security
+"Your account recovery request was received",Security
+"Your friend sent you a message",Personal
+"Your sister shared a photo with you",Personal
+"Your mother called you twice",Personal
+"Your friend invited you to a group",Personal
+"You received a new personal email",Personal
+"Your cousin wants to meet this weekend",Personal
+"Your family group has a new message",Personal
+"Your friend replied to your message",Personal
+"You have a missed call from a contact",Personal
+"Your friend shared a document with you",Personal
+"Your order has been shipped",Shopping
+"Your package will arrive tomorrow",Shopping
+"Your online order has been delivered",Shopping
+"Your refund has been processed",Shopping
+"Your shopping cart has been updated",Shopping
+"Your order is ready for pickup",Shopping
+"Your return request has been accepted",Shopping
+"Your delivery address has been confirmed",Shopping
+"Your replacement order is on its way",Shopping
+"Your invoice for the purchase is available",Shopping
+"Get fifty percent off selected products today",Promotion
+"Limited time offer on new arrivals",Promotion
+"Subscribe now to receive exclusive deals",Promotion
+"Flash sale ends tonight",Promotion
+"Discover our latest collection at discounted prices",Promotion
+"Use this coupon for a special discount",Promotion
+"Buy one get one free this weekend",Promotion
+"Earn reward points with your next purchase",Promotion
+"Special festive offers are available now",Promotion
+"Sign up today for promotional updates",Promotion
+
+"Your final examination begins at 10 AM","Education"
+"Your assignment deadline has been extended","Education"
+"Tomorrow's lecture will be held online","Education"
+"Your attendance is below the required percentage","Education"
+"Your semester results are now available","Education"
+"Your practical examination venue has changed","Education"
+"Submit your project report before Monday","Education"
+"Your college timetable has been updated","Education"
+"Registration for the next semester is open","Education"
+"Your laboratory session has been cancelled","Education"
+"Your account password reset was requested","Security"
+"Multiple failed login attempts were detected","Security"
+"Your recovery email address was changed","Security"
+"Confirm this transaction before it expires","Security"
+"Your account was signed in from an unfamiliar location","Security"
+"Two step verification has been enabled","Security"
+"Your registered phone number was updated","Security"
+"Your account access has been temporarily restricted","Security"
+"Review the recent activity on your account","Security"
+"Your security verification has expired","Security"
+"Your friend invited you to a birthday party","Personal"
+"You have a new voicemail from a family member","Personal"
+"Your brother shared a location with you","Personal"
+"Your friend wants to call you this evening","Personal"
+"A family member sent you a voice message","Personal"
+"Your friend added you to a conversation","Personal"
+"You received a reply from your cousin","Personal"
+"Your contact shared a video with you","Personal"
+"Your friend is waiting for your response","Personal"
+"You have a new message in your family group","Personal"
+"Your delivery has been delayed until Monday","Shopping"
+"The seller has accepted your cancellation request","Shopping"
+"Your parcel is out for delivery","Shopping"
+"Your refund will arrive within five business days","Shopping"
+"Your order payment was confirmed","Shopping"
+"The courier could not deliver your package","Shopping"
+"Your exchange request has been approved","Shopping"
+"Your order is ready to be collected","Shopping"
+"An item in your order is unavailable","Shopping"
+"Your shipment tracking information has changed","Shopping"
+"Save more with our weekend discount event","Promotion"
+"New deals are available in our online store","Promotion"
+"Get a discount when you subscribe today","Promotion"
+"Our seasonal clearance sale starts now","Promotion"
+"Explore special prices on popular products","Promotion"
+"Use your promotional voucher before it expires","Promotion"
+"Enjoy limited time savings on selected items","Promotion"
+"Discover today's featured shopping deals","Promotion"
+"Get bonus rewards during our shopping event","Promotion"
+"Sign up for updates about upcoming sales","Promotion"

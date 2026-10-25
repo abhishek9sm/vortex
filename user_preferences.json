@@ -1,0 +1,20 @@
+
+{
+  "priorities": {
+    "HIGH": [
+      "exam",
+      "assignment",
+      "emergency","bank"
+    ],
+    "MEDIUM": [
+      "personal",
+      "education"
+    ],
+    "LOW": [
+      "promotion",
+      "shopping","win bonus"
+    ]
+  },
+  "learning_enabled": true,
+  "store_feedback": true
+}

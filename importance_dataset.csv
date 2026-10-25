@@ -1,0 +1,620 @@
+text,importance
+"Urgent: A suspicious bank transfer was detected on your account",HIGH
+"Your bank account was accessed from an unfamiliar device",HIGH
+"Your password was changed without your request",HIGH
+"Your account recovery request will expire in 10 minutes",HIGH
+"Your sign-in verification code expires in two minutes",HIGH
+"Multiple failed login attempts were detected on your account",HIGH
+"Your online banking access has been temporarily blocked",HIGH
+"Confirm the suspicious payment before it is processed",HIGH
+"Your debit card was used for an unrecognized purchase",HIGH
+"Your account security alert requires immediate attention",HIGH
+"Your college assignment submission closes in 30 minutes",HIGH
+"Your examination starts in 15 minutes",HIGH
+"Your online examination is about to begin",HIGH
+"Your assignment deadline is today at 5 PM",HIGH
+"Your examination hall has changed for today's exam",HIGH
+"Your exam registration closes today",HIGH
+"Your scholarship application deadline is today",HIGH
+"Your college fee payment is overdue and requires attention",HIGH
+"Your internship application closes in one hour",HIGH
+"Your job application must be completed before midnight",HIGH
+"Your interview begins in 20 minutes",HIGH
+"Your scheduled client meeting starts in 10 minutes",HIGH
+"Your manager needs the requested report before today's deadline",HIGH
+"The production server is down and requires immediate investigation",HIGH
+"Your work account access will expire shortly",HIGH
+"An urgent task has been assigned with a deadline today",HIGH
+"Your scheduled presentation starts in 15 minutes",HIGH
+"The project submission portal closes in 30 minutes",HIGH
+"Your attendance correction request must be submitted today",HIGH
+"Your important meeting has been moved to an earlier time today",HIGH
+"Your train departs in 10 minutes",HIGH
+"Your flight boarding gate closes in 15 minutes",HIGH
+"Your bus ticket booking will expire in five minutes",HIGH
+"Your flight departure time has changed unexpectedly",HIGH
+"Your train platform has changed for the departing service",HIGH
+"Your travel document verification is incomplete before departure",HIGH
+"Your hotel booking requires confirmation before it expires",HIGH
+"Your airport check-in closes in 20 minutes",HIGH
+"Your connecting train departs shortly from another platform",HIGH
+"Your ride driver has arrived and is waiting at the pickup point",HIGH
+"An emergency weather warning is active in your area",HIGH
+"An official flood warning has been issued for your location",HIGH
+"A severe storm warning requires you to follow local safety guidance",HIGH
+"An emergency alert has been issued for your district",HIGH
+"Your local authorities have issued an evacuation notice",HIGH
+"A wildfire warning has been issued near your location",HIGH
+"An official heat emergency alert has been issued for your area",HIGH
+"Your local emergency service has issued an urgent safety notice",HIGH
+"An earthquake safety alert has been issued for your region",HIGH
+"Your area's water supply has been declared unsafe to drink",HIGH
+"Your family member has requested urgent assistance",HIGH
+"Your emergency contact is trying to reach you",HIGH
+"Your family member has reported an urgent medical emergency",HIGH
+"Your parent has asked you to call immediately about an emergency",HIGH
+"Your emergency contact details need confirmation for an active incident",HIGH
+"Your child’s school has announced an urgent pickup requirement",HIGH
+"Your family member needs immediate help getting home safely",HIGH
+"An urgent message from your household requires your attention",HIGH
+"Your caregiver has reported an unexpected emergency",HIGH
+"Your emergency contact has sent a request for immediate communication",HIGH
+"Your prescription reminder indicates that a scheduled dose is due now",HIGH
+"Your medical appointment begins in 15 minutes",HIGH
+"Your clinic has moved your appointment to an earlier time today",HIGH
+"Your healthcare provider has requested an urgent callback",HIGH
+"Your laboratory appointment requires check-in before the deadline",HIGH
+"Your medical test booking will expire shortly",HIGH
+"Your pharmacy reports that your essential prescription is ready for collection today",HIGH
+"Your medical device has reported a critical system alert",HIGH
+"Your health service has issued an urgent appointment instruction",HIGH
+"Your scheduled medical consultation begins in 10 minutes",HIGH
+"Your electricity account has a disconnection notice requiring action today",HIGH
+"Your water service will be suspended unless the overdue issue is resolved",HIGH
+"Your internet service will be disconnected today unless payment is completed",HIGH
+"Your utility account requires urgent verification to prevent suspension",HIGH
+"Your rent payment deadline is today",HIGH
+"Your loan payment is overdue and requires prompt attention",HIGH
+"Your insurance policy requires a response before today's deadline",HIGH
+"Your tax filing deadline is today",HIGH
+"Your official application requires missing documents before it expires",HIGH
+"Your government service request needs verification before the deadline",HIGH
+"Your phone number was removed from your account without your request",HIGH
+"Your email recovery settings were changed unexpectedly",HIGH
+"Your account has been locked after suspicious activity",HIGH
+"An unfamiliar device has requested access to your cloud account",HIGH
+"Your account security key was disabled unexpectedly",HIGH
+"Your device detected a potentially harmful application",HIGH
+"Your work account has an urgent security incident",HIGH
+"Your cloud account is approaching a security-related access restriction",HIGH
+"Your authentication method needs urgent review after a suspicious login",HIGH
+"Your administrator has disabled access due to a security concern",HIGH
+"Your payment failed and your essential service may be suspended today",HIGH
+"Your scheduled bill payment was rejected before the due date",HIGH
+"Your bank requires confirmation of a suspicious transaction",HIGH
+"Your card was reported used at an unfamiliar location",HIGH
+"Your digital wallet detected an unrecognized payment request",HIGH
+"Your merchant account has been restricted following a security alert",HIGH
+"Your account balance is insufficient for a payment due today",HIGH
+"Your refund dispute requires evidence before today's deadline",HIGH
+"Your payment authorization expires in five minutes",HIGH
+"Your recurring payment could not be completed and needs attention today",HIGH
+"Your job interview location has changed for an appointment today",HIGH
+"Your recruiter needs the missing document before today's interview",HIGH
+"Your job offer response deadline is today",HIGH
+"Your professional certification exam starts in 30 minutes",HIGH
+"Your mandatory workplace training expires today",HIGH
+"Your work permit application requires immediate document submission",HIGH
+"Your employee account access expires at the end of today",HIGH
+"Your scheduled technical assessment closes in 20 minutes",HIGH
+"Your project approval is required before today's deployment",HIGH
+"Your team needs your final confirmation before the release deadline",HIGH
+"Your school has announced an urgent closure for today",HIGH
+"Your class examination room has changed for the current session",HIGH
+"Your teacher has requested a corrected submission before the portal closes",HIGH
+"Your practical examination begins in 20 minutes",HIGH
+"Your college registration requires confirmation before it expires",HIGH
+"Your education loan document submission deadline is today",HIGH
+"Your course enrollment will close in 30 minutes",HIGH
+"Your academic appeal must be submitted before today's deadline",HIGH
+"Your lab examination has been rescheduled to begin shortly",HIGH
+"Your university has issued a time-sensitive examination notice",HIGH
+"Your delivery address must be corrected before today's delivery attempt",HIGH
+"Your courier needs an access code to complete delivery today",HIGH
+"Your essential parcel requires identity verification before release",HIGH
+"Your delivery appointment is scheduled to end in 15 minutes",HIGH
+"Your important shipment is being held until you confirm the address",HIGH
+"Your return request expires today and needs confirmation",HIGH
+"Your document courier requires your signature before closing",HIGH
+"Your travel package requires a missing passenger detail before departure",HIGH
+"Your order payment needs confirmation before the booking expires",HIGH
+"Your scheduled pickup is arriving in 10 minutes",HIGH
+"Your home security system detected an unexpected entry",HIGH
+"Your smoke alarm system has reported an active warning",HIGH
+"Your connected security camera detected an unusual access event",HIGH
+"Your door sensor reports that an entry point was left open",HIGH
+"Your device storage failure may affect unsaved work",HIGH
+"Your computer backup failed before the scheduled system change",HIGH
+"Your system administrator reports a critical service outage",HIGH
+"Your website is unavailable and the monitoring service raised an alert",HIGH
+"Your database service stopped unexpectedly",HIGH
+"Your application deployment failed and requires investigation",HIGH
+"Your meeting starts in five minutes and your presentation file is missing",HIGH
+"Your registration confirmation is required before the event begins",HIGH
+"Your event ticket has an entry problem that must be resolved today",HIGH
+"Your examination admit card download is still incomplete before the exam",HIGH
+"Your reservation requires confirmation within the next ten minutes",HIGH
+"Your appointment cancellation window closes in five minutes",HIGH
+"Your deadline extension request was rejected and the original deadline remains today",HIGH
+"Your final report is due in 20 minutes",HIGH
+"Your requested approval is needed before the scheduled task can proceed",HIGH
+"Your scheduled service appointment begins in 10 minutes",HIGH
+"Your two-factor authentication request was not initiated by you",HIGH
+"Your email account is sending messages you did not compose",HIGH
+"Your social account password was reset from an unfamiliar location",HIGH
+"Your device has detected a possible unauthorized remote login",HIGH
+"Your administrator requires immediate confirmation of a suspected phishing incident",HIGH
+"Your identity verification session expires in five minutes",HIGH
+"Your account recovery code has been requested unexpectedly",HIGH
+"Your security software has blocked a suspicious file execution",HIGH
+"Your account has a pending change to its recovery phone number",HIGH
+"Your work device has reported a critical security policy violation",HIGH
+"Your insurance claim needs supporting documents by today's deadline",HIGH
+"Your bank dispute response window closes today",HIGH
+"Your legal appointment begins in 15 minutes",HIGH
+"Your official permit expires today and requires renewal action",HIGH
+"Your identity document appointment requires check-in now",HIGH
+"Your visa application requires a missing document before submission closes",HIGH
+"Your scholarship acceptance must be confirmed by today's deadline",HIGH
+"Your financial aid application closes in one hour",HIGH
+"Your exam fee payment must be completed before registration closes",HIGH
+"Your official notice requires a response before the stated deadline",HIGH
+"Your emergency medication delivery requires confirmation now",HIGH
+"Your medical transport pickup is arriving in 10 minutes",HIGH
+"Your clinic requires confirmation for an urgent appointment today",HIGH
+"Your healthcare provider has changed the location of today's consultation",HIGH
+"Your health monitoring device has reported a critical alert requiring review",HIGH
+"Your medical appointment check-in closes in 10 minutes",HIGH
+"Your hospital registration requires missing details before check-in closes",HIGH
+"Your scheduled treatment appointment begins in 20 minutes",HIGH
+"Your medical test preparation instructions have changed for today's appointment",HIGH
+"Your care provider has requested a prompt response about today's visit",HIGH
+"Your train ticket requires immediate action because the booking is unconfirmed",HIGH
+"Your flight check-in deadline is approaching in 15 minutes",HIGH
+"Your bus departure has been moved forward by 20 minutes",HIGH
+"Your airport terminal has changed for today's flight",HIGH
+"Your train service has been cancelled and requires a travel decision",HIGH
+"Your booked ride has been cancelled before an important appointment",HIGH
+"Your hotel check-in requires confirmation before the reception closes",HIGH
+"Your travel identity details do not match the booking record",HIGH
+"Your ferry boarding closes in 10 minutes",HIGH
+"Your connecting flight has a gate change and boarding is underway",HIGH
+"Your project submission has failed and the deadline is approaching",HIGH
+"Your assignment upload was rejected and must be corrected today",HIGH
+"Your online test session will end in five minutes",HIGH
+"Your required course registration closes today at noon",HIGH
+"Your college has requested urgent confirmation of your examination attendance",HIGH
+"Your professor needs your corrected project file before the deadline",HIGH
+"Your final-year project review starts in 15 minutes",HIGH
+"Your internship joining confirmation is due today",HIGH
+"Your placement assessment link expires in 30 minutes",HIGH
+"Your university account requires verification before you can enter the exam",HIGH
+"Your college portal has posted a new assignment",MEDIUM
+"Your weekly class timetable is now available",MEDIUM
+"Your attendance report for this month is ready",MEDIUM
+"Your lecturer has uploaded notes for the next class",MEDIUM
+"Your college library book is due next week",MEDIUM
+"Your course registration confirmation is available",MEDIUM
+"Your semester results are now available to view",MEDIUM
+"Your project group has shared a progress update",MEDIUM
+"Your classroom has been assigned for tomorrow's lecture",MEDIUM
+"Your college has published next month's academic calendar",MEDIUM
+"Your teacher has shared additional study material",MEDIUM
+"Your laboratory schedule for next week is available",MEDIUM
+"Your optional seminar registration has been confirmed",MEDIUM
+"Your college fee receipt is ready to download",MEDIUM
+"Your scholarship application status has been updated",MEDIUM
+"Your internship application status has changed",MEDIUM
+"Your placement portal has listed a new job opportunity",MEDIUM
+"Your online course progress report is ready",MEDIUM
+"Your library reservation is ready for collection",MEDIUM
+"Your academic profile information has been updated",MEDIUM
+"Your team has shared the minutes from yesterday's meeting",MEDIUM
+"Your colleague has requested feedback on a project document",MEDIUM
+"Your weekly work schedule has been published",MEDIUM
+"Your manager has shared a revised project plan",MEDIUM
+"Your team meeting agenda is available to review",MEDIUM
+"Your workplace training materials have been updated",MEDIUM
+"Your project management board contains new tasks",MEDIUM
+"Your colleague has shared a document for review",MEDIUM
+"Your monthly performance summary is available",MEDIUM
+"Your work calendar has been updated for next week",MEDIUM
+"Your team has posted an update about the current project",MEDIUM
+"Your meeting notes have been saved to the shared folder",MEDIUM
+"Your office leave request status has changed",MEDIUM
+"Your work expense report is ready for review",MEDIUM
+"Your scheduled team discussion has been moved to tomorrow",MEDIUM
+"Your company has published a new internal announcement",MEDIUM
+"Your colleague has replied to your project discussion",MEDIUM
+"Your work document has received a new comment",MEDIUM
+"Your monthly work summary is ready to view",MEDIUM
+"Your team has shared next month's planned activities",MEDIUM
+"Your bank statement for this month is available",MEDIUM
+"Your recent transaction receipt is ready to download",MEDIUM
+"Your savings account interest summary is available",MEDIUM
+"Your credit card statement has been generated",MEDIUM
+"Your recurring payment is scheduled for next week",MEDIUM
+"Your utility bill for this month is ready",MEDIUM
+"Your insurance policy document is available",MEDIUM
+"Your loan account statement has been updated",MEDIUM
+"Your recent refund has been processed",MEDIUM
+"Your payment receipt has been sent to your email",MEDIUM
+"Your monthly spending summary is ready",MEDIUM
+"Your bank branch has updated its working hours",MEDIUM
+"Your digital wallet transaction history is available",MEDIUM
+"Your deposit confirmation is ready to view",MEDIUM
+"Your savings goal progress has been updated",MEDIUM
+"Your electricity bill payment receipt is available",MEDIUM
+"Your subscription payment was completed successfully",MEDIUM
+"Your tax document has been added to your account",MEDIUM
+"Your financial account profile has been updated",MEDIUM
+"Your parcel has been packed and is ready for dispatch",MEDIUM
+"Your order has been shipped and is in transit",MEDIUM
+"Your delivery is expected to arrive tomorrow",MEDIUM
+"Your order has reached the local delivery centre",MEDIUM
+"Your return request has been received",MEDIUM
+"Your refund status has been updated",MEDIUM
+"Your shopping order invoice is available",MEDIUM
+"Your saved delivery address has been updated",MEDIUM
+"Your parcel delivery has been rescheduled for tomorrow",MEDIUM
+"Your order has been delivered successfully",MEDIUM
+"Your grocery order has been confirmed",MEDIUM
+"Your pickup reservation is confirmed for this afternoon",MEDIUM
+"Your product warranty registration is complete",MEDIUM
+"Your replacement order has been dispatched",MEDIUM
+"Your shopping account order history has been updated",MEDIUM
+"Your delivery instructions have been saved",MEDIUM
+"Your online purchase receipt is available",MEDIUM
+"Your exchange request is being processed",MEDIUM
+"Your product support request has received a reply",MEDIUM
+"Your order tracking details have been updated",MEDIUM
+"Your calendar reminder for tomorrow is available",MEDIUM
+"Your dentist appointment is scheduled for next week",MEDIUM
+"Your family group has shared weekend plans",MEDIUM
+"Your friend has sent you a message",MEDIUM
+"Your relative has shared a new photograph",MEDIUM
+"Your contact has updated their profile picture",MEDIUM
+"Your family event invitation has been received",MEDIUM
+"Your friend has replied to your previous message",MEDIUM
+"Your household shopping list has been updated",MEDIUM
+"Your personal appointment confirmation is available",MEDIUM
+"Your saved contact information has been updated",MEDIUM
+"Your family calendar contains a new event",MEDIUM
+"Your friend has shared a location for the meeting",MEDIUM
+"Your personal document backup is complete",MEDIUM
+"Your photo album has finished synchronizing",MEDIUM
+"Your shared family document has been updated",MEDIUM
+"Your personal reminder is scheduled for tomorrow",MEDIUM
+"Your birthday event has been added to the calendar",MEDIUM
+"Your contact has shared an important travel detail",MEDIUM
+"Your household service appointment is confirmed",MEDIUM
+"Your weekly fitness activity summary is available",MEDIUM
+"Your sleep report for last night is ready",MEDIUM
+"Your water intake summary has been updated",MEDIUM
+"Your health app has recorded today's activity",MEDIUM
+"Your routine health check-up is scheduled for next month",MEDIUM
+"Your fitness goal progress has been updated",MEDIUM
+"Your medication schedule for tomorrow is available",MEDIUM
+"Your exercise session has been recorded",MEDIUM
+"Your wellness report is ready to review",MEDIUM
+"Your health app has synced your latest measurements",MEDIUM
+"Your clinic has confirmed your routine appointment",MEDIUM
+"Your vaccination record has been updated",MEDIUM
+"Your fitness tracker battery is running low",MEDIUM
+"Your weekly walking distance summary is available",MEDIUM
+"Your sleep schedule reminder is ready",MEDIUM
+"Your exercise plan for this week has been updated",MEDIUM
+"Your health insurance card is available in the app",MEDIUM
+"Your routine laboratory report is ready to view",MEDIUM
+"Your wellness challenge progress has been recorded",MEDIUM
+"Your activity tracker has completed its daily synchronization",MEDIUM
+"Your train ticket confirmation is available",MEDIUM
+"Your flight itinerary has been updated",MEDIUM
+"Your hotel reservation details are ready to view",MEDIUM
+"Your bus booking receipt is available",MEDIUM
+"Your travel check-in opens tomorrow",MEDIUM
+"Your travel insurance document is ready",MEDIUM
+"Your hotel has confirmed your room reservation",MEDIUM
+"Your train journey schedule is available",MEDIUM
+"Your travel expense receipt has been uploaded",MEDIUM
+"Your cab booking history has been updated",MEDIUM
+"Your travel destination guide is available",MEDIUM
+"Your boarding pass is ready to download",MEDIUM
+"Your hotel check-in instructions are available",MEDIUM
+"Your trip itinerary has been shared with your group",MEDIUM
+"Your seat selection confirmation is available",MEDIUM
+"Your travel loyalty points summary is ready",MEDIUM
+"Your planned journey has been added to the calendar",MEDIUM
+"Your reservation details have been updated",MEDIUM
+"Your travel booking receipt is ready to view",MEDIUM
+"Your route information for tomorrow is available",MEDIUM
+"Your phone backup has completed successfully",MEDIUM
+"Your device software update is available",MEDIUM
+"Your cloud storage is approaching its capacity limit",MEDIUM
+"Your laptop has completed its scheduled backup",MEDIUM
+"Your printer is running low on paper",MEDIUM
+"Your saved passwords have finished synchronizing",MEDIUM
+"Your connected device has completed an update",MEDIUM
+"Your application has a new version available",MEDIUM
+"Your cloud document synchronization is complete",MEDIUM
+"Your device storage report is ready",MEDIUM
+"Your home internet router has restarted successfully",MEDIUM
+"Your computer battery health report is available",MEDIUM
+"Your browser has restored your previous session",MEDIUM
+"Your backup schedule has been updated",MEDIUM
+"Your device warranty information is available",MEDIUM
+"Your account profile synchronization is complete",MEDIUM
+"Your phone has completed its photo backup",MEDIUM
+"Your connected printer is ready to use",MEDIUM
+"Your system update download is complete",MEDIUM
+"Your device usage summary is available",MEDIUM
+"Your job search alert found a matching vacancy",MEDIUM
+"Your resume upload has been completed",MEDIUM
+"Your professional profile has received a new view",MEDIUM
+"Your recruiter has shared an update about the role",MEDIUM
+"Your interview feedback is available",MEDIUM
+"Your certification course progress has been saved",MEDIUM
+"Your professional network connection request was accepted",MEDIUM
+"Your work portfolio document has been updated",MEDIUM
+"Your job application has moved to the review stage",MEDIUM
+"Your professional event registration is confirmed",MEDIUM
+"Your online class recording is available",MEDIUM
+"Your learning platform has saved your course progress",MEDIUM
+"Your practice test results are ready to view",MEDIUM
+"Your course instructor has posted a new announcement",MEDIUM
+"Your learning certificate is ready to download",MEDIUM
+"Your study group has shared revision notes",MEDIUM
+"Your language learning progress has been recorded",MEDIUM
+"Your educational webinar registration is confirmed",MEDIUM
+"Your course discussion has received a reply",MEDIUM
+"Your training attendance record has been updated",MEDIUM
+"Your streaming subscription renewal date is approaching",MEDIUM
+"Your favourite podcast has released a new episode",MEDIUM
+"Your music library has finished synchronizing",MEDIUM
+"Your game account has saved your latest progress",MEDIUM
+"Your game update has finished downloading",MEDIUM
+"Your streaming watchlist has been updated",MEDIUM
+"Your audiobook download is complete",MEDIUM
+"Your reading app has synchronized your bookmarks",MEDIUM
+"Your saved video is ready for offline viewing",MEDIUM
+"Your gaming friends have shared a scheduled group session",MEDIUM
+"Your smart home device has completed its routine update",MEDIUM
+"Your household appliance maintenance reminder is available",MEDIUM
+"Your home energy usage report is ready",MEDIUM
+"Your water filter replacement reminder is scheduled for next week",MEDIUM
+"Your home delivery subscription details have been updated",MEDIUM
+"Your vehicle service appointment is confirmed",MEDIUM
+"Your vehicle insurance renewal date is approaching",MEDIUM
+"Your bicycle maintenance reminder is available",MEDIUM
+"Your household inventory list has been updated",MEDIUM
+"Your home service provider has confirmed tomorrow's visit",MEDIUM
+"Your community noticeboard has a new announcement",MEDIUM
+"Your neighbourhood meeting is scheduled for next week",MEDIUM
+"Your local library has announced revised opening hours",MEDIUM
+"Your apartment maintenance schedule has been updated",MEDIUM
+"Your community event registration is confirmed",MEDIUM
+"Your local recycling collection schedule is available",MEDIUM
+"Your residential association has shared meeting notes",MEDIUM
+"Your local transport timetable has been updated",MEDIUM
+"Your public library reservation is ready",MEDIUM
+"Your community sports event details are available",MEDIUM
+"Flash sale: save 20% on selected accessories",LOW
+"New seasonal clothing styles are now available",LOW
+"Recommended products have been added to your wishlist suggestions",LOW
+"Explore limited-time offers on selected home products",LOW
+"Discover this week's featured food menu",LOW
+"Get a discount on your next optional food order",LOW
+"A new cosmetic item is available in the game store",LOW
+"Your daily game bonus is ready to claim",LOW
+"A new optional gaming challenge is available",LOW
+"A new series has been added to the streaming catalogue",LOW
+"Recommended episodes are waiting for you to watch",LOW
+"A playlist based on your listening history is ready",LOW
+"See the latest trending topics in your social feed",LOW
+"A creator you follow has posted a new entertainment clip",LOW
+"Explore today's popular lifestyle stories",LOW
+"Discover popular weekend destinations for future trips",LOW
+"Try this optional seven-day fitness challenge",LOW
+"Explore recommended optional learning courses",LOW
+"Upgrade your subscription to unlock extra features",LOW
+"Create a photo collage from your recent pictures",LOW
+"Your shopping app has found more products you may like",LOW
+"Browse the latest deals on phone accessories",LOW
+"New colours are available for a popular clothing range",LOW
+"Discover discounted home decoration products",LOW
+"Your favourite store has launched a seasonal collection",LOW
+"Browse optional deals on kitchen accessories",LOW
+"Explore recommended products based on your browsing history",LOW
+"Your shopping wishlist has some suggested additions",LOW
+"Discover this week's featured fashion products",LOW
+"Browse a collection of decorative desk accessories",LOW
+"Your retailer has announced a weekend shopping event",LOW
+"Explore special offers on selected stationery products",LOW
+"New designs have arrived in the accessories collection",LOW
+"Browse popular gift ideas for upcoming celebrations",LOW
+"Your shopping app has prepared a personalised product list",LOW
+"Explore discounts on selected storage products",LOW
+"Discover new home office accessories in the catalogue",LOW
+"Your favourite retailer has updated its style guide",LOW
+"Browse trending products in the electronics section",LOW
+"Explore optional bundle offers on selected items",LOW
+"Try a new recipe from the food app's featured collection",LOW
+"Discover popular cafes near your saved locations",LOW
+"Your food app has suggested a new dessert",LOW
+"Explore today's featured restaurant collection",LOW
+"Browse optional offers from nearby food outlets",LOW
+"Discover a collection of refreshing summer drinks",LOW
+"Your food app has suggested popular snack options",LOW
+"Explore new bakery items in the catalogue",LOW
+"Browse popular vegetarian dishes recommended for you",LOW
+"Discover this week's featured restaurant promotions",LOW
+"Your game has introduced a new optional character outfit",LOW
+"Explore decorative themes available in the game store",LOW
+"A new optional achievement badge is available",LOW
+"Your gaming platform recommends another adventure game",LOW
+"Discover a new cosmetic reward collection",LOW
+"An optional seasonal event is available in your game",LOW
+"Browse newly released game wallpapers",LOW
+"Your game store has featured a popular character skin",LOW
+"Explore optional customisation items for your profile",LOW
+"Discover new decorative items for your virtual home",LOW
+"Your streaming service recommends a comedy series",LOW
+"A new entertainment trailer is available to watch",LOW
+"Explore popular movies in the streaming catalogue",LOW
+"Your watchlist has recommendations similar to your favourite show",LOW
+"Discover a collection of animated adventure films",LOW
+"A new behind-the-scenes video is available",LOW
+"Explore this week's featured entertainment documentaries",LOW
+"Your streaming app recommends a light-hearted sitcom",LOW
+"Browse popular family entertainment programmes",LOW
+"Discover new trailers from upcoming films",LOW
+"Your music app recommends a relaxing playlist",LOW
+"Explore popular instrumental music collections",LOW
+"A new remix is available in your music feed",LOW
+"Discover trending songs in your favourite genre",LOW
+"Your music service recommends an acoustic playlist",LOW
+"Explore new background music for studying",LOW
+"Browse popular songs released this week",LOW
+"Your music app has suggested a new artist",LOW
+"Discover a collection of classic instrumental tracks",LOW
+"Explore recommended podcasts about technology",LOW
+"Your social app recommends accounts to follow",LOW
+"Explore popular photographs in your discovery feed",LOW
+"A creator you follow shared an optional live stream",LOW
+"Discover trending short videos in your feed",LOW
+"Your social app recommends popular discussion groups",LOW
+"Browse new public communities related to your hobbies",LOW
+"Explore suggested profiles with similar interests",LOW
+"Your feed contains popular entertainment discussions",LOW
+"Discover new creators in the travel category",LOW
+"Your social platform recommends a collection of funny clips",LOW
+"Explore popular travel photography from around the world",LOW
+"Discover scenic destinations for a future holiday",LOW
+"Your travel app recommends weekend getaway ideas",LOW
+"Browse popular sightseeing locations in another city",LOW
+"Explore suggested photography spots for your next trip",LOW
+"Discover interesting museums for a future visit",LOW
+"Your travel feed recommends scenic railway journeys",LOW
+"Browse popular beach destinations for inspiration",LOW
+"Explore optional travel packages for a future holiday",LOW
+"Discover recommended walking tours in historic cities",LOW
+"Your fitness app suggests a new stretching routine",LOW
+"Explore optional yoga sessions for relaxation",LOW
+"Discover new beginner-friendly workout ideas",LOW
+"Your fitness platform recommends a weekend activity",LOW
+"Browse optional mindfulness exercises",LOW
+"Explore a collection of guided relaxation sessions",LOW
+"Your activity app suggests a new walking route",LOW
+"Discover optional home exercise programmes",LOW
+"Your wellness app recommends calming background sounds",LOW
+"Explore general wellness articles in your free time",LOW
+"Discover optional beginner courses in graphic design",LOW
+"Your learning app recommends a language lesson",LOW
+"Explore popular introductory programming tutorials",LOW
+"Browse optional courses about digital photography",LOW
+"Discover educational videos about space exploration",LOW
+"Your learning platform recommends a creative writing course",LOW
+"Explore beginner lessons about music theory",LOW
+"Discover optional tutorials about drawing techniques",LOW
+"Browse popular educational podcasts for general interest",LOW
+"Explore optional lessons about personal productivity",LOW
+"Your subscription service recommends a premium plan",LOW
+"Discover optional add-ons for your current subscription",LOW
+"Explore new themes available for your application",LOW
+"Your software store recommends a productivity application",LOW
+"Browse optional customisation features in the app",LOW
+"Discover decorative backgrounds for your phone",LOW
+"Your application recommends additional profile themes",LOW
+"Explore optional widgets for your home screen",LOW
+"Discover new icon packs for your device",LOW
+"Browse optional appearance settings for your account",LOW
+"Your photo app recommends a vintage image filter",LOW
+"Explore creative editing effects for your pictures",LOW
+"Discover templates for making greeting cards",LOW
+"Your photo library suggests pictures for a collage",LOW
+"Browse decorative frames for your photographs",LOW
+"Explore optional animation effects for your images",LOW
+"Discover creative layouts for a personal photo album",LOW
+"Your camera app recommends a new photography filter",LOW
+"Explore artistic effects for landscape photographs",LOW
+"Browse optional photo editing tutorials",LOW
+"Your bookstore recommends a popular fantasy novel",LOW
+"Discover new mystery books in the reading catalogue",LOW
+"Explore popular adventure stories for your reading list",LOW
+"Your reading app recommends a collection of short stories",LOW
+"Browse newly featured science fiction novels",LOW
+"Discover light-hearted comics in the digital library",LOW
+"Explore recommended graphic novels for entertainment",LOW
+"Your ebook service recommends a classic novel",LOW
+"Browse popular travel books for your next holiday",LOW
+"Discover optional reading challenges for this month",LOW
+"Your smart home app recommends decorative lighting scenes",LOW
+"Explore optional ambient lighting settings",LOW
+"Discover new wallpapers for your connected display",LOW
+"Your home application suggests a relaxing evening scene",LOW
+"Browse decorative themes for your smart devices",LOW
+"Explore optional automation ideas for everyday convenience",LOW
+"Your connected speaker recommends background music",LOW
+"Discover new display clock designs for your home",LOW
+"Your home app recommends seasonal decoration ideas",LOW
+"Browse optional personalisation settings for your devices",LOW
+"Your vehicle app recommends scenic driving routes",LOW
+"Explore optional accessories for your bicycle",LOW
+"Discover popular car care tips for general interest",LOW
+"Your vehicle platform recommends decorative dashboard themes",LOW
+"Browse optional accessories for your travel bag",LOW
+"Explore popular cycling routes for weekend recreation",LOW
+"Discover new designs for reusable water bottles",LOW
+"Your mobility app recommends scenic destinations",LOW
+"Browse optional car interior customisation products",LOW
+"Explore new styles of travel organisers",LOW
+"Your community app recommends a local hobby group",LOW
+"Discover optional recreational events in your area",LOW
+"Browse popular photography clubs for general interest",LOW
+"Your community feed recommends a gardening group",LOW
+"Explore local art exhibitions for a future visit",LOW
+"Discover optional weekend craft activities",LOW
+"Your neighbourhood app recommends nearby walking trails",LOW
+"Browse community book clubs you may enjoy",LOW
+"Explore optional recreational workshops",LOW
+"Discover local cultural events for entertainment",LOW
+"Your shopping app recommends a reusable shopping bag",LOW
+"Explore new designs for notebook covers",LOW
+"Discover optional desk decorations for your workspace",LOW
+"Browse colourful stationery collections",LOW
+"Your retailer recommends decorative phone cases",LOW
+"Explore optional accessories for a gaming setup",LOW
+"Discover new designs for coffee mugs",LOW
+"Browse decorative organisers for your desk",LOW
+"Explore optional gifts for hobby enthusiasts",LOW
+"Your shopping feed recommends seasonal home decorations",LOW
+"Your entertainment app recommends a light comedy special",LOW
+"Discover optional puzzle games for your free time",LOW
+"Explore relaxing casual games in the app store",LOW
+"Your game platform recommends a new simulation game",LOW
+"Browse optional virtual decorations for your game",LOW
+"Discover a collection of relaxing mobile games",LOW
+"Your entertainment feed recommends funny animal videos",LOW
+"Explore popular animated shorts for entertainment",LOW
+"Discover optional trivia quizzes for fun",LOW
+"Browse casual games recommended for short breaks",LOW
+"Your food app recommends a new dessert shop",LOW
+"Explore optional cafe loyalty offers",LOW
+"Discover popular smoothie recipes for inspiration",LOW
+"Browse new flavours from a local bakery",LOW
+"Your food service recommends a seasonal beverage",LOW
+"Explore popular snack ideas for a movie night",LOW
+"Discover optional offers on takeaway desserts",LOW
+"Browse creative cake designs for celebrations",LOW
+"Your restaurant app recommends a popular brunch menu",LOW
+"Explore optional food festival recommendations",LOW

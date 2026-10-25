@@ -1,0 +1,26 @@
+text,category
+"The professor uploaded notes for the next lecture",Education
+"The university portal is temporarily unavailable",Education
+"Your practical session begins after lunch",Education
+"The classroom has been changed to room 204",Education
+"Your academic certificate is ready for collection",Education
+"A new device attempted to access your profile",Security
+"Your recovery request could not be completed",Security
+"An unknown browser accessed your account",Security
+"Your account settings were changed successfully",Security
+"Please verify the identity of the person signing in",Security
+"Your teammate shared a funny picture with you",Personal
+"Someone replied in your family conversation",Personal
+"Your friend sent a voice recording",Personal
+"You received an invitation to a weekend gathering",Personal
+"A contact shared a new status update",Personal
+"The courier has collected your parcel",Shopping
+"Your purchase is awaiting dispatch",Shopping
+"The seller has issued a credit for your return",Shopping
+"Your delivery is expected later this afternoon",Shopping
+"The tracking page shows that your parcel arrived at the local hub",Shopping
+"A members-only offer is available for a short time",Promotion
+"Browse our newly discounted collection",Promotion
+"Your shopping rewards can be redeemed this week",Promotion
+"Register to receive our latest product offers",Promotion
+"Save on selected items during our seasonal event",Promotion
