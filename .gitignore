@@ -1,0 +1,23 @@
+# IDE and machine-specific configuration
+.idea/
+*.iml
+**/local.properties
+
+# Android/Gradle build output and caches
+.gradle/
+.kotlin/
+**/build/
+
+# Web build output and installed packages
+node_modules/
+dist/
+
+# Python caches and test artifacts
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Local logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
